@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" method="upgrade" client="administrator">
+ 
+        <name>PDF</name>
+        <creationDate>Maj 2015</creationDate>
+        <author>Ajmer</author>
+        <authorEmail>biuro@ajmer.pl</authorEmail>
+        <authorUrl>http://ajmer.pl</authorUrl>
+        <copyright>Copyright...</copyright>
+        <license>Tresc licencji</license>
+        <version>1.0</version>
+        <description>Opis modułu...</description>
+		
+		<files>
+			<filename module="mod_pdfloud">mod_pdfloud.php</filename>          
+            <filename>index.html</filename>
+			<filename>mod_pdfloud.xml</filename>
+			 <folder>pdf</folder>
+		</files>
+		
+		
+		
+</extension>
